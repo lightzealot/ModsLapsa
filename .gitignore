@@ -1,0 +1,21 @@
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Carpetas temporales
+temp/
+tmp/
+
+# Archivos de logs
+*.log
+
+# Archivos comprimidos temporales
+*.zip.tmp
+*.rar.tmp
